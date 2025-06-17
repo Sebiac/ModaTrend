@@ -1,5 +1,7 @@
 # Requerimientos Funcionales y No Funcionales
 
+## Requerimientos Funcioneles
+
 | Nombre                                    | Tipo         |
 |-------------------------------------------|--------------|
 | Portal de autogestión para tiendas        | Funcional    |
@@ -10,6 +12,11 @@
 | CRM integrado                             | Funcional    |
 | Gestión unificada de inventario           | Funcional    |
 | Reportes de compras y ventas              | Funcional    |
+
+## Requerimientos No Funcionales
+
+| Nombre                                    | Tipo         |
+|-------------------------------------------|--------------|
 | Alto rendimiento                          | No Funcional |
 | Escalabilidad                             | No Funcional |
 | Alta disponibilidad                       | No Funcional |
