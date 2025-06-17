@@ -1,6 +1,6 @@
 # Requerimientos Funcionales y No Funcionales
 
-## Requerimientos Funcioneles
+## Requerimientos Funcionales
 
 | Nombre                                    | Tipo         |
 |-------------------------------------------|--------------|
