@@ -15,9 +15,9 @@
 
 ## Requerimientos No Funcionales
 
-| Nombre                                    | Tipo         |
+| Nombre                                    | Funcionamiento         |
 |-------------------------------------------|--------------|
-| Alto rendimiento                          | No Funcional |
-| Escalabilidad                             | No Funcional |
-| Alta disponibilidad                       | No Funcional |
-| Seguridad de datos                        | No Funcional |
+| Alto rendimiento                          | El sistema deberá responder de forma rápida y eficiente y mantener el tiempo de respuesta aceptables en todo momento. |
+| Escalabilidad                             | El sistema debe ser capaz de adaptarse al crecimiento del negocio, permitiendo aumentar su capacidad sin necesidad de rediseñar  toda la estructura. |
+| Alta disponibilidad                       | El sistema debe estar disponible y operativo la mayor de parte del tiempo  minimizando el tiempo de actividades incluso en casos en mantenimientos o fallas inesperadas. |
+| Seguridad de datos                        | El sistema tendrá una seguridad para guardar bien las información sobre de  nuestros clientes ,trabajadores y las compras realizadas de cada clientes . |
