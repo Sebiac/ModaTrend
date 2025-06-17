@@ -1,5 +1,5 @@
 # ModaTrend
-Profesor: Marcos Terreros
+### Profesor: Marcos Terreros
 
 Miembros:  
 Sebastian Alvarez  
