@@ -1,20 +1,6 @@
-#  Proyecto ModaTrend
+##  Plan de pruebas
 
-Este repositorio contiene el plan de pruebas funcionales y no funcionales desarrollado para el sistema de e-commerce "ModaTrend", como parte de la Evaluación Parcial 3 de Ingeniería de Software (RQY1102).
+El presente Plan de Pruebas tiene como objetivo definir la estrategia, los alcances, los recursos y los criterios de evaluación para garantizar la calidad del software desarrollado en el proyecto ModaTrend. Este documento establece los tipos de pruebas a ejecutar , los roles responsables y los procedimientos para reportar y gestionar defectos. 
 
-##  Estructura
-
-- `docs/pruebas-casos-pruebas.md`: Documento principal del plan de pruebas ágiles.
-- `pruebas/prueba-casos-de-prueba.xlsx`: Planilla con casos, datos y resultados de pruebas.
-- `pruebas/pruebas-control-de-cambios.xlsx`: Registro de versiones y cambios del prototipo.
-- `evidencias/`: Carpeta con capturas de pantalla de pruebas ejecutadas.
-
-## Profesor
-- Marcos Terreros
-
-## Equipo de Trabajo
-- Sebastián Álvarez
-- Danae Covarrubia
-- Gabriel Inostroza
-
+Su finalidad es asegurar que el producto cumpla con los requisitos funcionales y no funcionales, minimizando riesgos y garantizando una entrega robusta y confiable. Las pruebas se alinearán con los estándares de calidad definidos y servirán como guía para validar cada fase del ciclo de vida del desarrollo.
 
