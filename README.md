@@ -15,7 +15,17 @@ Este plan de pruebas tiene como objetivo validar el correcto funcionamiento del 
 
 Validarán que cada función del sistema cumpla con los requisitos establecidos.
 
-
+| Caso de Prueba                | Descripción                                                                 | Criterios de Aceptación                              |
+|-------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------|
+| Registro de Usuario           | Verificar que un usuario pueda registrarse correctamente                    | Datos guardados y confirmación enviada               |
+| Inicio de Sesión              | Validar acceso con credenciales correctas/incorrectas                       | Solo acceso con credenciales válidas                 |
+| Consulta de Catálogo          | Verificar visualización de productos                                       | Productos cargados sin errores                       |
+| Sincronización de Inventario  | Comprobar actualización en tiempo real del stock                           | Cambios reflejados inmediatamente                   |
+| Recomendaciones Personalizadas| Validar sugerencias basadas en historial                                    | Recomendaciones coinciden con preferencias          |
+| Agregar al Carrito            | Probar funcionalidad del carrito                                           | Productos añadidos y total calculado correctamente  |
+| Reserva (Click & Collect)     | Verificar reserva de productos                                             | Reserva registrada y stock actualizado              |
+| Proceso de Pago               | Validar integración con Stripe/Mercado Pago                                | Pago procesado sin errores                          |
+| Generación de Reportes        | Verificar creación de reportes de ventas                                   | Datos mostrados son precisos                        |
 
 #### Pruebas No Funcionales
 
