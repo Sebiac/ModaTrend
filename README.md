@@ -1,6 +1,68 @@
-##  Plan de pruebas
+## Plan de Pruebas para ModaTrend
 
-El presente Plan de Pruebas tiene como objetivo definir la estrategia, los alcances, los recursos y los criterios de evaluación para garantizar la calidad del software desarrollado en el proyecto ModaTrend. Este documento establece los tipos de pruebas a ejecutar , los roles responsables y los procedimientos para reportar y gestionar defectos. 
+Este plan de pruebas tiene como objetivo validar el correcto funcionamiento del sistema ModaTrend, asegurando que cumpla con los requisitos funcionales y no funcionales definidos. Se utilizarán diferentes tipos de pruebas para garantizar la calidad del software antes de su implementación.
 
-Su finalidad es asegurar que el producto cumpla con los requisitos funcionales y no funcionales, minimizando riesgos y garantizando una entrega robusta y confiable. Las pruebas se alinearán con los estándares de calidad definidos y servirán como guía para validar cada fase del ciclo de vida del desarrollo.
+### Objetivos del Plan de Pruebas
+
+Verificar que todas las funcionalidades del sistema operen según lo esperado.
+
+Garantizar la sincronización en tiempo real del inventario.
+
+Validar la seguridad y rendimiento del sistema.
+
+Asegurar una experiencia de usuario fluida y sin errores.
+
+### Tipos de Pruebas a Realizar
+
+#### Pruebas Funcionales
+
+Validarán que cada función del sistema cumpla con los requisitos establecidos.
+
+
+
+#### Pruebas No Funcionales
+
+Asegurar que el sistema cumpla con aspectos de rendimiento, seguridad y usabilidad.
+
+
+#### Pruebas de Usabilidad
+
+Navegación intuitiva: Evaluar si los usuarios encuentran fácilmente las funciones.
+
+Diseño responsivo: Verificar que la interfaz se adapte a móviles y tablets.
+
+Feedback visual: Confirmar que las acciones del usuario tengan retroalimentación clara.
+
+#### Pruebas de Integración
+
+Validar la comunicación entre módulos (ej: catálogo, carrito, pagos).
+
+Verificar que los datos fluyan correctamente entre frontend y backend.
+
+#### Pruebas de Regresión
+Ejecutar pruebas después de cada actualización para asegurar que no se introdujeron errores.
+
+### Entorno de Pruebas
+
+Frontend: Navegadores (Chrome, Firefox, Safari, Edge).
+
+Backend: Servidores de desarrollo y staging.
+
+Base de datos: MySQL/PostgreSQL con datos de prueba.
+
+Dispositivos: Móviles (iOS/Android), tablets y desktop.
+
+### Cronograma de Pruebas
+
+
+
+### Criterios de Aprobación
+
+Funcional: Todas las pruebas pasan con éxito.
+
+Rendimiento: Cumple con los tiempos de respuesta esperados.
+
+Seguridad: No se encontraron vulnerabilidades críticas.
+
+Usabilidad: Los usuarios finales aprueban la experiencia.
 
