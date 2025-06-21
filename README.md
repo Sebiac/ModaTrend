@@ -1,4 +1,4 @@
-# Metodología Scrum
+## Metodología Scrum
 
 La metodología Scrum es un marco de trabajo ágil para gestionar proyectos, especialmente en desarrollo de software, que promueve la colaboración, flexibilidad y entrega incremental de valor. Se enfoca en procesos iterativos y ciclos cortos llamados "sprints", generalmente de 1 a 4 semanas, en los cuales el equipo trabaja para alcanzar objetivos específicos, de esta manera se permite que los equipos se ajusten rápidamente a los cambios y entreguen productos de alta calidad de manera eficiente.
 
@@ -45,7 +45,7 @@ Su enfoque principal es transformar los requisitos del Product Owner en incremen
 • Proponer soluciones técnicas innovadoras y mejoras al producto.   
 
 
-# 💰 Coste de Desarrollo - Proyecto ModaTrend
+## 💰 Coste de Desarrollo - Proyecto ModaTrend
 
 Este proyecto requiere un equipo multidisciplinario y el uso de herramientas y servicios para desarrollar un sistema e-commerce completo en un período estimado de **3 meses**.
 
