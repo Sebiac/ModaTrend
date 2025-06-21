@@ -98,5 +98,9 @@ Este proyecto requiere un equipo multidisciplinario y el uso de herramientas y s
 
 **3 meses**, aplicando metodología Scrum, distribuido en sprints iterativos.
 
+##  Carta Gantt
+
+Herramienta fundamental en la gestión de proyectos, permite visualizar de manera clara y ordenada las tareas, plazos y recursos involucrados en un plan de trabajo. Mediante un diagrama de barras horizontales, facilita el seguimiento del progreso, la identificación de dependencias entre actividades y la asignación eficiente de responsabilidades.
+
 
 
