@@ -51,19 +51,12 @@ Asegurar que el sistema cumpla con aspectos de rendimiento, seguridad y usabilid
 • Validar la comunicación entre módulos (ej: catálogo, carrito, pagos).  
 • Verificar que los datos fluyan correctamente entre frontend y backend.  
 
-#### Pruebas de Regresión
-
-• Ejecutar pruebas después de cada actualización para asegurar que no se introdujeron errores.  
-
 ### Entorno de Pruebas
 
 • Frontend: Navegadores (Chrome, Firefox, Safari, Edge).  
 • Backend: Servidores de desarrollo y staging.  
 • Base de datos: MySQL/PostgreSQL con datos de prueba.  
 • Dispositivos: Móviles (iOS/Android), tablets y desktop.  
-
-### Cronograma de Pruebas
-
 
 
 ### Criterios de Aprobación
