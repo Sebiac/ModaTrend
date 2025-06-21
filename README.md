@@ -51,7 +51,7 @@ Este proyecto requiere un equipo multidisciplinario y el uso de herramientas y s
 
 ---
 
-## 👥 Recursos Humanos
+### 👥 Recursos Humanos
 
 | Rol                 | Descripción                                  | Costo mensual | Total (3 meses) |
 |---------------------|----------------------------------------------|----------------|-----------------|
@@ -65,7 +65,7 @@ Este proyecto requiere un equipo multidisciplinario y el uso de herramientas y s
 
 ---
 
-##  Herramientas y Servicios
+###  Herramientas y Servicios
 
 | Recurso                  | Descripción                           | Costo mensual | Total (3 meses) |
 |--------------------------|---------------------------------------|----------------|-----------------|
@@ -76,7 +76,7 @@ Este proyecto requiere un equipo multidisciplinario y el uso de herramientas y s
 **Subtotal herramientas y servicios:** $1.950.000 CLP
 
 
-##  Otros Gastos
+###  Otros Gastos
 
 | Concepto                      | Descripción                                      | Costo         |
 |------------------------------|--------------------------------------------------|---------------|
@@ -84,7 +84,7 @@ Este proyecto requiere un equipo multidisciplinario y el uso de herramientas y s
 | Soporte y mantenimiento post desarrollo | Corrección de errores, actualizaciones | $1.000.000 CLP |
 
 
-##  Costo Total del Proyecto
+###  Costo Total del Proyecto
 
 | Concepto                     | Total           |
 |-----------------------------|-----------------|
@@ -94,11 +94,11 @@ Este proyecto requiere un equipo multidisciplinario y el uso de herramientas y s
 | **Total General Estimado** | **$35.550.000 CLP** |
 
 
-##  Duración del Proyecto
+###  Duración del Proyecto
 
 **3 meses**, aplicando metodología Scrum, distribuido en sprints iterativos.
 
-##  Carta Gantt
+###  Carta Gantt
 
 Herramienta fundamental en la gestión de proyectos, permite visualizar de manera clara y ordenada las tareas, plazos y recursos involucrados en un plan de trabajo. Mediante un diagrama de barras horizontales, facilita el seguimiento del progreso, la identificación de dependencias entre actividades y la asignación eficiente de responsabilidades.
 
