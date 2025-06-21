@@ -31,6 +31,14 @@ Validarán que cada función del sistema cumpla con los requisitos establecidos.
 
 Asegurar que el sistema cumpla con aspectos de rendimiento, seguridad y usabilidad.
 
+| Tipo de Prueba       | Descripción                                      | Criterios de Aceptación                     |
+|----------------------|--------------------------------------------------|---------------------------------------------|
+| Rendimiento          | Evaluar tiempos de respuesta bajo carga          | Respuesta en <2 segundos                    |
+| Escalabilidad        | Probar con múltiples usuarios concurrentes       | Soporta ≥1,000 usuarios                     |
+| Disponibilidad       | Verificar uptime y resistencia a fallos          | 99.9% disponibilidad en pruebas             |
+| Seguridad            | Validar protección de datos y autenticación      | Bloquea accesos no autorizados              |
+| Compatibilidad       | Probar en navegadores y dispositivos             | Funciona en Chrome, Firefox, Edge, móviles  |
+
 
 #### Pruebas de Usabilidad
 
