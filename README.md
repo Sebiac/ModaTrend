@@ -40,13 +40,13 @@ Asegurar que el sistema cumpla con aspectos de rendimiento, seguridad y usabilid
 | Compatibilidad       | Probar en navegadores y dispositivos             | Funciona en Chrome, Firefox, Edge, móviles  |
 
 
-#### Pruebas de Usabilidad
+### Pruebas de Usabilidad
 
 • Navegación intuitiva: Evaluar si los usuarios encuentran fácilmente las funciones.  
 • Diseño responsivo: Verificar que la interfaz se adapte a móviles y tablets.  
 • Feedback visual: Confirmar que las acciones del usuario tengan retroalimentación clara.  
 
-#### Pruebas de Integración
+### Pruebas de Integración
 
 • Validar la comunicación entre módulos (ej: catálogo, carrito, pagos).  
 • Verificar que los datos fluyan correctamente entre frontend y backend.  
