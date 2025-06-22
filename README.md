@@ -102,5 +102,7 @@ Este proyecto requiere un equipo multidisciplinario y el uso de herramientas y s
 
 Herramienta fundamental en la gestión de proyectos, permite visualizar de manera clara y ordenada las tareas, plazos y recursos involucrados en un plan de trabajo. Mediante un diagrama de barras horizontales, facilita el seguimiento del progreso, la identificación de dependencias entre actividades y la asignación eficiente de responsabilidades.
 
+EL archivo de Carta Gantt se encuentran en la carpeta `/Organizacion/` del repositorio.
+
 
 
