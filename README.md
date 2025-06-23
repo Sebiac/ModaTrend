@@ -8,6 +8,6 @@ A continuación se presentan los diagramas utilizados para modelo 4 + 1 el siste
 |  Secuencia                |  Representa el flujo de mensajes entre objetos durante una compra|
 |  Clases                   | Detalla las clases del sistema con sus atributos, métodos y relaciones.      |
 |  Componentes              | Modela los componentes lógicos del sistema y sus interfaces.                |
-|  Despliegue               | Muestra la arquitectura física: servidor web, base de datos, dispositivos cliente. |
+|  Despliegue               | Muestra la arquitectura física |
 
  Los archivos de estos diagramas se encuentran en la carpeta `/diagramas/` del repositorio.
