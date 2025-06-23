@@ -12,15 +12,15 @@ Funcionalidades clave:
 
 ### ¿Cómo usarlo?
 
-Accede al enlace:  
+1.Accede al enlace:  
 https://c37c7655-be10-4b9b-b2af-9d91efc706a5-00-16lr2rvc2v9ui.janeway.replit.dev/  
 
-Completa el formulario:  
+2.Completa el formulario:  
 Ingresa tus datos (nombre, correo y producto deseado).  
 
-Confirma tu reserva:  
+3.Confirma tu reserva:  
 Haz clic en Reservar para guardar la información.  
 
-Verifica tus reservas:  
+4.Verifica tus reservas:  
 Consulta el listado de reservas en la sección designada.  
 
